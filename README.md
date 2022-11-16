@@ -1,13 +1,16 @@
-># Challenge #12 - **Javascript Conditions**
+># Challenge #13 - **Javascript Functions**
 
 ---
 
-In this Challenge, i used Vanilla Javascript, Sass and Bootstrap, to give different functionalities to three index.html.
-The first of them, border_on.js , gives a border to an image when you click it and remove it when you click it again.
-The second, sticker.js, makes a validation about the quantity of stickers needed by the user with a max of 10 units of them.
-The third, password.js makes a validation for two correct passwords, Pass #1 is 911 and Pass #2 is 714. Any other combination will be denied.
->>The  installation method for Sass and Bootstrap was mediantly NPM.
-You can view the Deployed Page on GitHub-Pages in this <a href="https://mattcuadros.github.io/3.2.-Challenge_-JS_-Conditions/index.html" target="_blank">Link</a>
+In this Challenge, i used Vanilla Javascript, to practice with Javascript Functions.
+The first of them, 1_funcion.js , changes a Function Declaration to a Function Expression.
+The second, 2_arrow.js, changes a Function Expression to an Arrow Function Expression.
+The third, 3_pintar.html, have a Funcion Declaration with a default parameter (Green background) and when you click on Hello! paragraph, it´s background color changes to yellow.
+The fourth, 4_index.html, have 4 boxes with different background colors and when you pulse a keyboard key and click one div, it´s background color changes to the selected.
+
+You can view the Deployed Page on GitHub-Pages in this <a href="https://mattcuadros.github.io/Challenge_13_JS_Functions/" target="_blank">Link</a>
+<a href="https://mattcuadros.github.io/Challenge_13_JS_Functions/3_pintar.html target="_blank">Link to 3_pintar.html</a>
+<a href="https://mattcuadros.github.io/Challenge_13_JS_Functions/4_index.html target="_blank">Link to 4_index.html</a>
 
 ---
 
