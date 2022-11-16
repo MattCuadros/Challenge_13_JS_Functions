@@ -9,8 +9,10 @@ The third, 3_pintar.html, have a Funcion Declaration with a default parameter (G
 The fourth, 4_index.html, have 4 boxes with different background colors and when you pulse a keyboard key and click one div, it´s background color changes to the selected.
 
 You can view the Deployed Page on GitHub-Pages in this <a href="https://mattcuadros.github.io/Challenge_13_JS_Functions/" target="_blank">Link</a>
-<a href="https://mattcuadros.github.io/Challenge_13_JS_Functions/3_pintar.html target="_blank">Link to 3_pintar.html</a>
-<a href="https://mattcuadros.github.io/Challenge_13_JS_Functions/4_index.html target="_blank">Link to 4_index.html</a>
+
+<a href="https://mattcuadros.github.io/Challenge_13_JS_Functions/3_pintar.html">3_pintar.html</a>
+<a href="https://mattcuadros.github.io/Challenge_13_JS_Functions/4_index.html">4_index.html</a>
+
 
 ---
 
