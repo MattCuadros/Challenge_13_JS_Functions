@@ -10,8 +10,8 @@ The fourth, 4_index.html, have 4 boxes with different background colors and when
 
 You can view the Deployed Page on GitHub-Pages in this <a href="https://mattcuadros.github.io/Challenge_13_JS_Functions/" target="_blank">Link</a>
 
-<a href="https://mattcuadros.github.io/Challenge_13_JS_Functions/3_pintar.html">3_pintar.html</a>
-<a href="https://mattcuadros.github.io/Challenge_13_JS_Functions/4_index.html">4_index.html</a>
+1. <a href="https://mattcuadros.github.io/Challenge_13_JS_Functions/3_pintar.html">3_pintar.html</a>
+2. <a href="https://mattcuadros.github.io/Challenge_13_JS_Functions/4_index.html">4_index.html</a>
 
 
 ---
